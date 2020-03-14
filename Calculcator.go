@@ -21,7 +21,7 @@ func main() {
 
 		n2, err := strconv.Atoi(args[2])
 		if err != nil {
-			fmt.Println("0"
+			fmt.Println("0")
 			return
 		}
 
